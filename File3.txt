@@ -1,0 +1,4 @@
+This is file3 for idea branch
+
+Idea of creating happiness!!
+Welcome to Git...!!
