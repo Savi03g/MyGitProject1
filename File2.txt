@@ -1,6 +1,12 @@
 This is File2
 File 2 is updated by team member on remote server
  
+
  File to updated for server 
  Change 6
 Change 7----> added
+
+  
+ Change ---> 6
+Change 7 on local master
+
