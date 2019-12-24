@@ -6,4 +6,11 @@ commint for 1st time...
 
 commit for second time
 
+commint change for third time
+
+commit change for fourth time
+
 Fix Bug1
+
+>>>>>>>>HEAD
+change 5 From another team member
