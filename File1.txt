@@ -1,1 +1,7 @@
 This file is master
+
+Create a new file
+
+commint for 1st time
+
+commit for second time
